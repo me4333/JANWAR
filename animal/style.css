@@ -1,0 +1,38 @@
+body{
+    background: rgb(0,255,175);
+background: linear-gradient(90deg, rgba(0,255,175,1) 0%, rgba(130,119,84,1) 31%, rgba(232,13,13,1) 50%, rgba(252,176,69,1) 69%);
+    font-family: 'Akaya Telivigala', cursive;
+}
+.header_div{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color: white;
+}
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+}
+.main_div button{
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+}
+.footer{
+    color: #0088ff;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
+h4{
+    font-size: 25px;
+}
